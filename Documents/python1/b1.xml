@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:88df7295-5071-4438-a390-e6df64669fb4</id>
+  <link rel="self"  
+        href="/opds-catalogs/root.xml" 
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" 
+        href="/opds-catalogs/root.xml" 
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <title>cheran_senguttuvan</title>
+  <updated>2010-01-10T10:03:10Z</updated>
+  <author>
+    <name>மு. இராகவ ஐயங்கார்</name>
+    <uri>http://opds-spec.org</uri>
+  </author>
+     
+  <entry>
+    <title>cheran_senguttuvan</title>
+    <link rel="http://opds-spec.org/sort/popular" 
+          href="/opds-catalogs/cheran_senguttuvan.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <updated>2010-01-10T10:01:01Z</updated>
+    <id>urn:uuid:88df7295-5071-4438-a390-e6df64669fb4</id>
+    <content type="text">Popular publications from this catalog based on downloads.</content>
+  </entry>
+  
+</feed>
